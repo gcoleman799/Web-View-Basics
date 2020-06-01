@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Web ViewBasics</string>
+    <string name="asset_loader_simple_activity_title">Simple Asset Loader</string>
+
 </resources>
